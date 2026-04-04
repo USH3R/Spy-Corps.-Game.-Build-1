@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #222;
+}
+
+#game-map {
+  width: 600px;
+  height: 400px;
+  background-color: #6cce6b; /* green map */
+  position: relative;
+  overflow: hidden;
+}
+
+#player {
+  width: 40px;
+  height: 40px;
+  background-color: #ff0000; /* red square character */
+  position: absolute;
+  top: 180px;
+  left: 280px;
+}
