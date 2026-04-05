@@ -39,10 +39,10 @@ This is the base system of future builds:
 Movement  
 Input (keyboard controls)  
 Visual feedback  
-
-Everything else (enemies, maps, weapons, SpyCore systems) can be built on top of this.
-
-**Future Plan**
-Build 2 → Add one new feature
-Build 3 → Add another feature
-Continue expanding step-by-step
+  
+Everything else (enemies, maps, weapons, SpyCore systems) can be built on top of this.  
+  
+**Future Plan**  
+Build 2 → Add one new feature  
+Build 3 → Add another feature  
+Continue expanding step-by-step  
