@@ -17,10 +17,32 @@ A video game.
 12. This will open the game in a browser.
 13. Play the base game using arrow keys on your keyboard.
   
-Build 1 (First build)  
+**Build 1 (First build)**  
 simple-game/  
 │  
 ├─ index.html      # Main HTML page  
 ├─ style.css       # Styles for the map and character  
 ├─ script.js       # Game logic (moving the square)  
 └─ README.md       # Optional project description  
+  
+**What This Build Does**  
+Displays a map (green background)  
+Displays a player (red square)  
+Allows movement:  
+⬆️ Up  
+⬇️ Down  
+⬅️ Left  
+➡️ Right  
+
+**Purpose of Build 1**  
+This is the base system of future builds:  
+Movement  
+Input (keyboard controls)  
+Visual feedback  
+
+Everything else (enemies, maps, weapons, SpyCore systems) can be built on top of this.
+
+**Future Plan**
+Build 2 → Add one new feature
+Build 3 → Add another feature
+Continue expanding step-by-step
